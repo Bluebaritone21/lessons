@@ -1,2 +1,2 @@
 # Java and Python
-### For Scrath users
+### For Scrtah users

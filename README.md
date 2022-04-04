@@ -1,2 +1,2 @@
-# lessons
-Teaching Java and Python
+# Java and Python
+### For Scrath users

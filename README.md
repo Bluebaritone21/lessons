@@ -1,2 +1,2 @@
 # Java and Python
-### For Scrtah users
+### For Scratch users

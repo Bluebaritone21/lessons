@@ -31,4 +31,8 @@ First off, **def main():**
 When you type `def`, you are saying that you want to make a *function*, which is a reusable peace of code **(like a custom block!)**. The `main()` means that you are calling the function **main** and that there are no parameters, which are like the fields in a custom block.
 The `print` command is precceded by 4 spaces, which mean that it's part of the `main` function.
 
-Finaly, `if __name__ == '__main__':` Whew. First of, `if`. We will go into more detail in Lesson 2, but for now, just know that the main function that is indented after it will be run only when `__name__ == '__main__'`. But what does `__name__ == '__main__'` mean? Well, `__name__` is a special variable (again, wait for *lesson 2*). and `'__main__'`, along with `'Hello, World!'` is a **string**, or text.
+Finaly, `if __name__ == '__main__':` Whew. First of, `if`. We will go into more detail in Lesson 2, but for now, just know that the main function that is indented after it will be run only when `__name__ == '__main__'`. But what does `__name__ == '__main__'` mean? Well, `__name__` is a special variable (again, wait for *lesson 2*). and `'__main__'`, along with `'Hello, World!'` is a **string**, or text. Finaly, `==` means *equal to*.
+
+So Basicly the Python code just means that the main peice of code is to say 'Hello, World!', and to run the main code, but only if this is this is run directly.
+
+#### Whew

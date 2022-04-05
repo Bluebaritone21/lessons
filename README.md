@@ -1,17 +1,12 @@
-# Java and Python
 
-## For Scratch users
+# Lesson 1: Hello, World
 
----
-
-## Lesson 1: Hello, World
-
-![A Scratch program](ScratchHello.png  "Make sure to put the say in a custom block")
+![A Scratch program](Lesson1/ScratchHello.png  "Make sure to put the say in a custom block")
 >The Above Scratch program will say Hi!
 >
 >Just Remember the Say block is part of the main custom block.
 
-Now let's write the same thing in Python!
+## Writing the same thing in Python
 
 ```python
 def main():
@@ -35,4 +30,23 @@ Finaly, `if __name__ == '__main__':` Whew. First of, `if`. We will go into more 
 
 So Basicly the Python code just means that the main peice of code is to say 'Hello, World!', and to run the main code, but only if this is this is run directly.
 
-#### Whew
+**Whew!**
+
+## Now for the Java code
+
+```java
+//File: JavaHello.java
+
+public class JavaHello{
+    public static void main(string[] args){
+        System.out.print("Hello, World!");
+    }
+}
+```
+
+### Uhh, what?
+
+Okay. This is very different from the Python code. So what does it mean? Well first, `public class` `JavaHello` is like a sprite. It can be made into an **object**, like cloning a sprite!
+>Just note that the class name (the `JavaHello`) needs to be the same as the filename (*JavaHello.java*).
+
+Next, `{}` is used to mean that the code belongs to the **block**, like indenting in Python or puting code in the **C blocks** in Scratch.

@@ -1,7 +1,7 @@
 
 # Lesson 1: Hello, World
 
-![A Scratch program](Lesson1/ScratchHello.png  "Make sure to put the say in a custom block")
+![A Scratch program](ScratchHello.png  "Make sure to put the say in a custom block")
 >The Above Scratch program will say Hi!
 >
 >Just Remember the Say block is part of the main custom block.

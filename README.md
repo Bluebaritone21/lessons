@@ -60,3 +60,9 @@ print("Hello, World!")
 However, in Java, you **MUST** have a main function. Java looks for the main function in the class and runs that first.
 
 So, what does `public static void` mean? Well, `public` means that it can be seen and called from outside the class. `static` means that the funtion will never change after it is run (unless you change its code). and `void` means that it dosn't return anything (*Lesson 2*). `String[] args` means that it can read **command-line arguments** (*Uhh, later!*) Don't worry about it for now.
+
+Finaly, `System.out.print("Hello, World!");` Okay, first off, `out` is a class (just like *JavaHello*) which is part of the `System` package (think of packages as groups of classes and namespaces (*later*)). Print is a function (like `main`!) And `"Hello, World!"` is a string.
+
+## Wraping it up
+
+So far, the code has been pretty basic. But stick with us next time, were we will cover if statements, variables, data types, and IO!

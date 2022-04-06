@@ -25,6 +25,7 @@ Next, we need some way to know what your name is, and some way to remember. That
 
 So, what are Variables? Well, think of a box.
 ![A box](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kuanlang.net%2Fuploads%2F202126044%2Fouter-box-label56088863749.jpg&f=1&nofb=1 "like this")
+
 Now, Imagine that there is a lable on that box, and you can put stuff in the box. That is a variable.
 
 Well, not exactly. You could put anything in a box, but only a specific *type* of things in a variable. You will see that works in the java portian, but now I'll tell you what some of the types are.
